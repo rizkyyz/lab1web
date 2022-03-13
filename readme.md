@@ -50,10 +50,6 @@ html
 <!-- judul paragraf kedua -->
 <h2>Paragraf pada HTML</h2>
 
-
-* Maka hasilnya akan seperti berikut.
-![heading](judul.png)
-
 ## Langkah 4
 * Memformat Teks
 
@@ -64,9 +60,6 @@ html
 | `<i>` | Membuat teks italic |
 | `<u>` | Membuat teks underline |
 
-* Maka hasilnya akan seperti berikut.
-![format_text](format_text.png)
-
 ## Langkah 5
 * Menyisipkan Gambar
 html
@@ -75,9 +68,6 @@ html
 
 <!-- menambahkan gambar pada dokumen -->
 <img src="Logo_UPB.png" width="200" title="Logo Univeritas Pelita Bangsa">
-
-* Maka hasilnya akan seperti berikut.
-![image](Image.png)
 
 ## Langkah 6
 * Menambahkan hyperlink
@@ -90,7 +80,7 @@ html
       <hr>
 
 * Maka hasilnya akan seperti berikut.
-![hyper_link](link.png)
+![hyper_link](halaman2.png)
 
 * Kemudian kita membuat lab1_halaman2.html
 
@@ -116,7 +106,7 @@ html
 
 
 * Maka hasilnya akan seperti berikut.
-![Hyper_link2](halam2.png)
+![Hyper_link2](halaman2.png)
 
 # Jawab Pertanyaan Berikut
 
