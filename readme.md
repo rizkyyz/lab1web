@@ -39,7 +39,7 @@ html
 
 
 * Maka hasilnya akan seperti berikut.
-![paragraf](paragrap.png)
+![paragraf](paragraf.png)
 
 ## Langkah 3
 * Menambahkan judul menggunakan Tag Heading
